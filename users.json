@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "password": "password123",
+        "role": "staff",
+        "phoneNumber": "123-456-7890",
+        "address": "123 Main St, Anytown USA"
+      },
+      {
+        "id": 2,
+        "username": "janedoe",
+        "email": "janedoe@example.com",
+        "password": "password123",
+        "role": "admin",
+        "phoneNumber": "555-555-5555",
+        "address": "456 Elm St, Anytown USA"
+      },
+      {
+        "id": 4,
+        "username": "sarahjane",
+        "email": "sarahjane@example.com",
+        "password": "password123",
+        "role": "staff",
+        "phoneNumber": "555-555-5555",
+        "address": "123 Main St, Anytown USA"
+      },
+      {
+        "id": 5,
+        "username": "bobsmith",
+        "email": "bobsmith@example.com",
+        "password": "supersecret",
+        "role": "admin",
+        "phoneNumber": "123-456-7890",
+        "address": "456 Elm St, Anytown USA"
+      },
+      {
+        "id": 6,
+        "username": "bobsjack",
+        "email": "bobsjack@example.com",
+        "password": "hidden",
+        "role": "admin",
+        "phoneNumber": "123-444-7770",
+        "address": "789 Elm St, Anytown USA"
+      }
+]

@@ -1,0 +1,10 @@
+[
+  {
+      "username": "testing",
+      "email": "testing@mail.com",
+      "password": "123456",
+      "role": "Customer",
+      "phoneNumber": "123-456-7890",
+      "address": "123 Main St, Anytown USA"
+    }
+   ]
